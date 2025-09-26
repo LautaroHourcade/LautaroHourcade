@@ -1,10 +1,7 @@
-<br clear="both">
 
 <h1 align="left">👋 ¡Hola! Soy Lautaro Hourcade</h1>
 
-###
 
-<br clear="both">
 
 <h2 align="left">🙋‍♂️ Sobre mí:</h2>
 
