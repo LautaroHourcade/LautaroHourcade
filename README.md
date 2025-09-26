@@ -1,14 +1,9 @@
 
 <h1 align="left">👋 ¡Hola! Soy Lautaro Hourcade</h1>
 
-
-
 <h2 align="left">🙋‍♂️ Sobre mí:</h2>
 
 ###
-
-<br clear="both">
-
 <img align="right" height="235" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21uenh2N3VzazIxaHh3amlwdmZtNDU3MTljOHg4Y3V1ZDR6anVmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif"  />
 
 ###
@@ -17,13 +12,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">📸 Redes sociales 🤳🏻:</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lautaro-hourcade-205338343" target="_blank">
