@@ -28,10 +28,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/lautaro-hourcade-205338343" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/lautaro-hourcade-205338343" >
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:lautaro13dejulio@gmail.com" target="_blank">
+  <a target="_blank" href="mailto:lautaro13dejulio@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
