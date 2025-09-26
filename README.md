@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👨‍💻 Desarrollador de software con formación en programación y conocimientos en lenguajes como C,Java, JavaScript, HTML y CSS, así como experiencia en Angular para el desarrollo de aplicaciones web modernas. 💻 Manejo de bases de datos MySQL y control de versiones con Git, experiencia en metodologías ágiles (Scrum, Kanban) para una integración efectiva en equipos de desarrollo y aplicando buenas prácticas de trabajo colaborativo 📈 .<br><br>👨‍🎓 Soy graduado de la Tecnicatura Universitaria en Programación, en la Universidad Tecnológica Nacional de Mar del Plata (UTNMDP) 🎓 .</p>
+<p align="left">👨‍💻 Desarrollador de software con formación en programación y conocimientos en lenguajes como C, Java, JavaScript, HTML y CSS, así como experiencia en Angular para el desarrollo de aplicaciones web modernas. 💻 Manejo de bases de datos MySQL y control de versiones con Git, experiencia en metodologías ágiles (Scrum, Kanban) para una integración efectiva en equipos de desarrollo y aplicando buenas prácticas de trabajo colaborativo 📈 .<br><br>👨‍🎓 Soy graduado de la Tecnicatura Universitaria en Programación, en la Universidad Tecnológica Nacional de Mar del Plata (UTNMDP) 🎓 .</p>
 
 ###
 <h2 align=left> ⚙ Tech Skills </h2>
