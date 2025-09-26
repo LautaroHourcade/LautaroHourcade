@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">📸 Redes sociales 🤳🏻:</h3>
+<h2 align="left">📸 Redes sociales 🤳🏻:</h3>
 
 ###
 
